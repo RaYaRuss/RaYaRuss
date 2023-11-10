@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Radina.
 - 👀 I’m interested in coding with Java.
-- 🌱 I’m currently learning Java Advanced Module at Software University.
-- 💞️ I’m looking to collaborate on mobile applications, web development.
+- 🌱 I’m currently learning Software Development with Java at Software University.
 - 📫 You can reach me on raya.russ@gmail.com
 
 <!---
